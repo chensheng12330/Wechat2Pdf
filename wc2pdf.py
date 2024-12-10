@@ -40,7 +40,7 @@ def getHtmlContent(url, proxies=None):
     res = requests.get(url, proxies)
     res.encoding = 'utf-8'
     #printf("%s", res.text)
-    logging.debug(res.text)
+    #logging.debug(res.text)
     return res.text
 
 
@@ -78,7 +78,7 @@ def outFile(data, out_type):
             f.write(data)
 
 
-source = getHtmlContent('https://mp.weixin.qq.com/s?__biz=MzAxNDAyMzc0Mg==&amp;mid=2683474162&amp;idx=1&amp;sn=28dd0c1b46b3bc508673c4d21c53ce64&amp;chksm=819f9da3b6e814b5674efafc9ae8750d3bd616b2b5b784a616a68368c09cf0f3d9c0cdfd5347&amp;scene=21#wechat_redirect')
+source = getHtmlContent('https://mp.weixin.qq.com/s?__biz=MzAxNDAyMzc0Mg==&mid=2683469402&idx=1&sn=d3e9c434091bb1fffc769a0827f424b2&chksm=819f730bb6e8fa1d02390339320f22bab34f877d7061d44f92206064dccbf9f9aefe6acba19d&scene=21#wechat_redirect')
 html = reHtmlTags(source)
 outFile(html, 'html')
 outFile(html, 'pdf')
