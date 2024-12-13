@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99AE9537-1CA7-4DE6-BE32-D629AE59FEE0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "json2treeNode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F - bc1cc069d8f60b51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.json2treeNode() -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91">
+               </Location>
+               <Location
+                  uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F - bc1cc069d8f60f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.json2treeNode() -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122">
+               </Location>
+               <Location
+                  uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F - bc1cc069d8f60f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.json2treeNode() -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122">
+               </Location>
+               <Location
+                  uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F - bc1cc069d8f60f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.json2treeNode() -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122">
+               </Location>
+               <Location
+                  uuid = "6E993DFC-30CA-42B0-AE7E-144BB194816F - bc1cc069d8f600b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.json2treeNode() -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFB8531F-BDA0-443E-81F6-70860D99E02F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "extractmainNodes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DEC53F2-A4A7-4E07-8208-AF987139CA53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "extractmainNodes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DEC53F2-A4A7-4E07-8208-AF987139CA53 - 55cacabb33288dd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.NameStorageManager.extractmainNodes() -&gt; Swift.Optional&lt;Swift.Array&lt;WeChatArt2PDF.MainNode&gt;&gt;"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/NameStorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "4DEC53F2-A4A7-4E07-8208-AF987139CA53 - 55cacabb33288d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.NameStorageManager.extractmainNodes() -&gt; Swift.Optional&lt;Swift.Array&lt;WeChatArt2PDF.MainNode&gt;&gt;"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/NameStorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "454DDF4C-2454-4E03-88A3-6779913C657C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "runLoopNodes(nodeIndex:subIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E0B57E-614C-4FE3-BE24-1C5E7790AE2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "runLoopNodes(nodeIndex:subIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8330F60A-8FE7-437F-AAC0-FE5AECC975A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "runLoopNodes(nodeIndex:subIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8B09243-FDC3-43B1-B705-0654A405BCB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "runLoopNodes(nodeIndex:subIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35ECE7E7-F276-4953-91D9-25D9C5D42BDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "runLoopNodes(nodeIndex:subIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE70D558-5DC9-4950-B59A-B7B1FBC6B204"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "savePDFData(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE70D558-5DC9-4950-B59A-B7B1FBC6B204 - 734f57ef888f4376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183">
+               </Location>
+               <Location
+                  uuid = "DE70D558-5DC9-4950-B59A-B7B1FBC6B204 - 734f57ef888f4376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183">
+               </Location>
+               <Location
+                  uuid = "DE70D558-5DC9-4950-B59A-B7B1FBC6B204 - 734f57ef888f5ceb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186">
+               </Location>
+               <Location
+                  uuid = "DE70D558-5DC9-4950-B59A-B7B1FBC6B204 - 734f57ef888f5ceb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D7DA2A9-83ED-4F3E-BA7C-B953610C5BD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "savePDFData(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D7DA2A9-83ED-4F3E-BA7C-B953610C5BD8 - 734f57ef888f5dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195">
+               </Location>
+               <Location
+                  uuid = "9D7DA2A9-83ED-4F3E-BA7C-B953610C5BD8 - 734f57ef888f5da5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196">
+               </Location>
+               <Location
+                  uuid = "9D7DA2A9-83ED-4F3E-BA7C-B953610C5BD8 - 734f57ef888f5d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197">
+               </Location>
+               <Location
+                  uuid = "9D7DA2A9-83ED-4F3E-BA7C-B953610C5BD8 - 734f57ef888f5da5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F891384-4F54-43B4-86D4-21350F250798"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "savePDFData(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F891384-4F54-43B4-86D4-21350F250798 - 734f57ef888f5d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199">
+               </Location>
+               <Location
+                  uuid = "9F891384-4F54-43B4-86D4-21350F250798 - 734f57ef888f5d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199">
+               </Location>
+               <Location
+                  uuid = "9F891384-4F54-43B4-86D4-21350F250798 - 734f57ef888f5d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200">
+               </Location>
+               <Location
+                  uuid = "9F891384-4F54-43B4-86D4-21350F250798 - 734f57ef888f5d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.WebToPDFViewController.savePDFData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/WebVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CA6A0E3-E29B-46DE-9B12-D8A8AEBA0D15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveNames(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CA6A0E3-E29B-46DE-9B12-D8A8AEBA0D15 - d6b365577f927399"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.NameStorageManager.saveNames(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/NameStorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50">
+               </Location>
+               <Location
+                  uuid = "9CA6A0E3-E29B-46DE-9B12-D8A8AEBA0D15 - d6b365577f927399"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeChatArt2PDF.NameStorageManager.saveNames(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WeChatArt2PDF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/SherwinGitPro/Wechat2Pdf/WeChatArt2PDF/WeChatArt2PDF/NameStorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF7B054C-4C04-4188-A242-A3C47B58CC9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "saveNames(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6798251B-F821-4C1C-9D2B-7AE4672B85B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/WebVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "savePDFData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE065008-E53D-47BC-9000-CF4C5EA2EB4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "extractmainNodes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F43F312-0FBE-4DF8-B1B4-9F458012823F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeChatArt2PDF/NameStorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "extractmainNodes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

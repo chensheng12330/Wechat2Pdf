@@ -7,15 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5825174F2D0291C40008EF78 /* NameStorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5825174E2D0291C40008EF78 /* NameStorageManager.swift */; };
+		584BA7652CF9C31200D2D79E /* hw100k.json in Resources */ = {isa = PBXBuildFile; fileRef = 584BA7642CF9C31200D2D79E /* hw100k.json */; };
 		585355CA2CF95AAB0056AB18 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585355C92CF95AAB0056AB18 /* AppDelegate.swift */; };
 		585355CC2CF95AAB0056AB18 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585355CB2CF95AAB0056AB18 /* SceneDelegate.swift */; };
 		585355CE2CF95AAB0056AB18 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585355CD2CF95AAB0056AB18 /* ViewController.swift */; };
 		585355D12CF95AAB0056AB18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 585355CF2CF95AAB0056AB18 /* Main.storyboard */; };
 		585355D32CF95AAF0056AB18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 585355D22CF95AAF0056AB18 /* Assets.xcassets */; };
 		585355D62CF95AAF0056AB18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 585355D42CF95AAF0056AB18 /* LaunchScreen.storyboard */; };
+		58535AE22CF968D10056AB18 /* Auto2PDF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58535AE12CF968D10056AB18 /* Auto2PDF.swift */; };
+		58535AE42CF98D5A0056AB18 /* WebVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58535AE32CF98D5A0056AB18 /* WebVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5825174E2D0291C40008EF78 /* NameStorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameStorageManager.swift; sourceTree = "<group>"; };
+		584BA7642CF9C31200D2D79E /* hw100k.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = hw100k.json; path = ../../hw100k.json; sourceTree = "<group>"; };
 		585355C62CF95AAB0056AB18 /* WeChatArt2PDF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeChatArt2PDF.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		585355C92CF95AAB0056AB18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		585355CB2CF95AAB0056AB18 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +30,8 @@
 		585355D22CF95AAF0056AB18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		585355D52CF95AAF0056AB18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		585355D72CF95AAF0056AB18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58535AE12CF968D10056AB18 /* Auto2PDF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto2PDF.swift; sourceTree = "<group>"; };
+		58535AE32CF98D5A0056AB18 /* WebVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				585355C92CF95AAB0056AB18 /* AppDelegate.swift */,
 				585355CB2CF95AAB0056AB18 /* SceneDelegate.swift */,
 				585355CD2CF95AAB0056AB18 /* ViewController.swift */,
+				58535AE12CF968D10056AB18 /* Auto2PDF.swift */,
+				584BA7642CF9C31200D2D79E /* hw100k.json */,
+				58535AE32CF98D5A0056AB18 /* WebVC.swift */,
+				5825174E2D0291C40008EF78 /* NameStorageManager.swift */,
 				585355CF2CF95AAB0056AB18 /* Main.storyboard */,
 				585355D22CF95AAF0056AB18 /* Assets.xcassets */,
 				585355D42CF95AAF0056AB18 /* LaunchScreen.storyboard */,
@@ -127,6 +139,7 @@
 			files = (
 				585355D62CF95AAF0056AB18 /* LaunchScreen.storyboard in Resources */,
 				585355D32CF95AAF0056AB18 /* Assets.xcassets in Resources */,
+				584BA7652CF9C31200D2D79E /* hw100k.json in Resources */,
 				585355D12CF95AAB0056AB18 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +153,9 @@
 			files = (
 				585355CE2CF95AAB0056AB18 /* ViewController.swift in Sources */,
 				585355CA2CF95AAB0056AB18 /* AppDelegate.swift in Sources */,
+				5825174F2D0291C40008EF78 /* NameStorageManager.swift in Sources */,
+				58535AE42CF98D5A0056AB18 /* WebVC.swift in Sources */,
+				58535AE22CF968D10056AB18 /* Auto2PDF.swift in Sources */,
 				585355CC2CF95AAB0056AB18 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,9 +310,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WeChatArt2PDF/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "访问相册获取照片用于意见反馈、在线客服沟通时上传图片和保存图片到相册";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "访问相册获取照片用于意见反馈、在线客服沟通时上传图片和保存图片到相册";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,9 +340,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WeChatArt2PDF/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "访问相册获取照片用于意见反馈、在线客服沟通时上传图片和保存图片到相册";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "访问相册获取照片用于意见反馈、在线客服沟通时上传图片和保存图片到相册";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
